@@ -7,40 +7,40 @@ This is a list of companies that are easy to apply to. These companies use a job
 Please note that it is not encouraged to blindly apply to every company on this list. I made this list because I felt that the application process of a company is a reflection on their culture and internal processes. Every link is to the company's main career page so that you can spend some time learning about the company and making sure it's a good fit for you before applying.
 
 <!-- BEGIN DATA -->
-| Company Name | Location |
-| --- | --- |
-| [21](https://jobs.lever.co/21) | San Francisco, CA |
-| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA |
-| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA |
-| [A9](https://www.a9.com/careers/) | Palo Alto, CA |
-| [Academia](https://www.academia.edu/hiring) | San Francisco, CA |
-| [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  |
-| [Acorns](https://www.acorns.com/careers) | Irvine, CA |
-| [Acquia](https://www.acquia.com/careers/open-positions) | Boston, MA; New Delhi, India; Portland, OR; Remote; Toronto, Canada |
-| [Addepar](https://www.addepar.com/careers/) | Mountain View, CA |
-| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA |
-| [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
-| [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
-| [Airtable](https://airtable.com/jobs) | San Francisco, CA |
+| Company Name | Location | Industry | Description |
+| --- | --- | --- | --- |
+| [21](https://jobs.lever.co/21) | San Francisco, CA | Bitcoin | 21 is free software, and it turns any computer into a Bitcoin Computer. After you install 21, you can get bitcoin on any device in almost any country without a bank account or credit card, add micropayments to any app, and start earning bitcoin on every HTTP request. |
+| [23andMe](https://www.23andme.com/careers/) | Mountain View, CA | Ancestry/Health | To help people access, understand and benefit from the human genome. They use Big Data to generate reports about your genes. (Wellness, Genetic Health Risks, and Ancestry Reports) |
+| [6sense](https://6sense.com/about-us/careers-and-culture/) | San Francisco, CA | Adverting | 6sense creates predictions that power all downstream sales and marketing systems with intelligence on who is in market to buy, what products, when they will buy and where they are in the buyer’s journey. B2B selling consumer data products to marketers. |
+| [A9](https://www.a9.com/careers/) | Palo Alto, CA | Search | Create and manage search and advertising technologies that are scalable, highly available, and cross-platform for their parent company Amazon. Three main fields: Product Search (powers Amazon search using data analyis, indexing text in every product in the catalog), Visual Search (deep learning, computer vision applications for mobile devices), and Ad Technology. |
+| [Academia](https://www.academia.edu/hiring) | San Francisco, CA | Academia | They're building an open-science platform to bring the world's research online, available to all, for free. With over 53 million registered users, Academia is rapidly transforming the way researchers share their work. |
+| [Achievers](http://www.achievers.com/careers/jobs) | San Francisco, CA  | Business Operations | They built an employee recognition and rewards platform. They sell the platform to businesses as a tool for managers to help align their employees to business objectives and company values |
+| [Acorns](https://www.acorns.com/careers) | Irvine, CA | Finance | They're building an investing experience that looks after the financial best of the up-and-coming. |
+| [Acquia](https://www.acquia.com/careers/open-positions) | Boston, MA; New Delhi, India; Portland, OR; Remote; Toronto, Canada | Digital Experience Management | Cloud-based digital experience management solution as a service. Their clients pay to use the Acquia platform to easily create digital experiences for their users. Their solution lets clients highly personalize the customer journey by leveraging content and consumer data. |
+| [Addepar](https://www.addepar.com/careers/) | Mountain View, CA | Finance | The operating system of the financial world. They created an investment management platform that provides reporting, analytics, and data aggregation. Trying to disrupt the financial industry by providing investors and advisors with tools to do their jobs better with technology.
+| [AeroFS](https://www.aerofs.com/company/careers/) | San Francisco, CA | Enterprise File Management | A secure file sync & share platform for enterprises. They sell their solution to enterprises that need a fast and secure way to transfer files within a company. |
+| [Affirm](https://www.affirm.com/careers/) | San Francisco, CA | Finance | Provides financing solutions to third-party businesses. They provide an easy integration to provide consumers with a financing option that gives out credit and allows consumers to make large purchases over time. Affirm helps their customers increase sales by providing an intuitive and easy-to-use financing integrations. |
+| [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA | Housing | Airbnb is a trusted community marketplace for people to list, discover, and book unique accommodations around the world |
+| [Airtable](https://airtable.com/jobs) | San Francisco, CA | Productivity | They create an application that looks like a spreadsheet but has the power of a database. Used to organize anything you can imagine. |
 | [Algebraix](http://www.algebraixdata.com/section/careers/) | San Diego, CA |
-| [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
-| [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA |
-| [Amino](https://amino.com/careers/) | San Francisco, CA |
-| [Amobee](http://www.amobee.com/careers/) | Foster City, CA |
-| [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA |
-| [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK |
-| [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York City, NY |
-| [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, CA; Santa Barbara, CA |
-| [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY |
-| [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA |
-| [Aptible](https://www.aptible.com/company/) | Denver, CO |
-| [Asana](https://asana.com/jobs) | San Francisco, CA |
+| [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA | Search | They build fast, accurate, reliable, and scalable search service for you. |
+| [AltSchool](https://www.altschool.com/jobs) | San Francisco, CA | Education | They build a network of technology-enabled schools for pre-K to grade 8. |
+| [Amino](https://amino.com/careers/) | San Francisco, CA | Health | Take the guesswork out of healthcare. Get access to information on cost estimates for facilities and detailed stats on every doctor in America. Amino is a quick and easy way to find and book the right care at the right price. |
+| [Amobee](http://www.amobee.com/careers/) | Foster City, CA | Advertising |
+| [Ancestry](http://www.ancestry.com/corporate/careers/) | Lehi, UT; San Francisco, CA | Ancestry | They bring meaning and connection to people's lives in powerful ways. |
+| [ANDigital](https://andigital.com/join-us/) | London, WC2N 4JF, UK | Digital Agency |
+| [Angellist](https://angel.co/angellist/jobs) | San Francisco, CA; New York City, NY | Entrepreneurship | AngelList is a platform for startups to meet investors, talent, incubators and service providers. |
+| [AppFolio](http://www.appfolioinc.com/jobs) | San Diego, CA; Santa Barbara, CA | Marketing | They create easy-to-use, cloud-based software that helps small and mid-sized businesses more effectively market, manage and grow their business. |
+| [AppNexus](http://www.appnexus.com/en/company/careers) | New York, NY | Advertising | They make a cloud-based platform that enables and optimizes programmatic online advertising. They help advertisers get the most out of their campaigns, publishers get the most out of their content, ad tech companies get the most of their insights and data, and internet users get full, democratic access to the digital world. |
+| [Apptio](http://www.apptio.com/about/careers) | Bellevue, WA | IT | They provide IT as a service using a suite of applications. They give reports on cost transparency, IT planning, IT benchmarking and more. |
+| [Aptible](https://www.aptible.com/company/) | Denver, CO | Security | They help their customers work safely with the most meaningful, sensitive data in highly regulated industries. They make a security management platform, and a secure container deployment platform. |
+| [Asana](https://asana.com/jobs) | San Francisco, CA | Productivity | Enable all teams to work together effortlessly. They create an organizational tool for project planning. |
 | [Aspiration Software](http://aspirationsoftware.com/careers/) | Middleburg, VA |
-| [Atomic](https://atomic.vc/careers/) | San Francisco, CA; Waterloo, Canada |
-| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA |
-| [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
-| [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC |
-| [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
+| [Atomic](https://atomic.vc/careers/) | San Francisco, CA; Waterloo, Canada | Venture Capital |
+| [Audience](http://www.audience.com/eng/Our-company/Careers) | Mountain View, CA | Audio Engineering | They create various electronic and software audio solutions. They build microphones, receivers, voice processors, and many applications. |
+| [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA | Home Security | Lock and unlock your door, create virtual keys for your guests, and see and speak with guests. |
+| [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC | Natural Language Processing | They created Wordsmith which is NLP tool that can create natural text recaps given a data source. |
+| [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA | Web | They build products to make the web a better place. They've built Wordpress, VaultPress, Gravatar, Jetpack and more. |
 | [BambooHR](http://www.bamboohr.com/about/careers.php) | Lindon, UT |
 | [Benchling](https://benchling.com/careers) | San Francisco, CA |
 | [Bending Spoons](http://bendingspoons.com/careers.html) | Milan, Italy; Remote |
